@@ -1,0 +1,6 @@
+{
+  "name": "Chaitra Electricals and Plumbing Materials",
+  "description": "Inventory catalog, instant quote builder, store location tracker, and customer inquiries for Chaitra Electricals and Plumbing Materials on B H Road, Kargal, Sagar, Shimoga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
